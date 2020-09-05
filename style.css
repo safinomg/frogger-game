@@ -1,9 +1,16 @@
+body {
+  background-color: #ffc7e3;
+    font-family: 'Merienda One', cursive;
+}
+
 .grid {
     border: 1px solid;
     display: flex;
     flex-wrap: wrap;
     height: 180px;
     width: 180px;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .grid div {
@@ -20,7 +27,7 @@
   }
   
   .c1 {
-    background-color: rgb(255, 3, 3);
+    background-color: rgb(41, 40, 40);
   }
   
   .l1, .l2, .l3 {
@@ -37,4 +44,14 @@
   
   .frog {
     background-color: darkgreen;
+  }
+
+  .game {
+    color: hotpink;
+    font-family: 'Merienda One', cursive;
+  }
+
+  .games {
+    color: hotpink;
+    font-family: 'Merienda One', cursive;
   }
