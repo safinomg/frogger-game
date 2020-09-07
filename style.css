@@ -55,3 +55,17 @@ body {
     color: hotpink;
     font-family: 'Merienda One', cursive;
   }
+  .game3 {
+    color: hotpink;
+    font-family: cursive;
+  }
+
+  .game1 {
+    color: hotpink;
+    font-family: cursive;
+  }
+
+  .color {
+    color: rgb(139, 21, 21);
+    text-align: center;
+  }
